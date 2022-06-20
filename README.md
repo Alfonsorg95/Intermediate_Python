@@ -15,6 +15,6 @@ Exeption management (try, exept, raise).
 Finally i learnet asserts.
 
 ## Final challenge
-I made a little Hangman game as final project for this course, its working but i hope to upgrade it later
+I made a little Hangman game as final project for this course, its working (in spanish) but i hope to upgrade it later and add new languajes.
 
 Never stop learning 💚
